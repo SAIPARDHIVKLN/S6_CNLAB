@@ -6,8 +6,11 @@ This repository contains the programs and practical implementations performed as
 
 ## 👨‍💻 Author
 K L N SAI PARDHIV
+
+
+
 BE Computer Science and Engineering  
-Specialization: Artificial Intelligence and Data Science
+Specialization: Artificial Intelligence and Machine Learning
 
 ---
 
